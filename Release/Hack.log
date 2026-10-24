@@ -1,0 +1,177 @@
+﻿  CAimbot.cpp
+  cAntiAim.cpp
+  cBhop.cpp
+  CGameEventManager2.cpp
+  cIniFile.cpp
+  Client.cpp
+  cMenu.cpp
+  cNetVars.cpp
+  cNoSpread.cpp
+  cRadar.cpp
+  draw.cpp
+  esp.cpp
+  Hooks.cpp
+  Main.cpp
+  n0xius.cpp
+  Needed.cpp
+  mathlib.cpp
+  memoverride.cpp
+  checksum_md5.cpp
+  vtable.cpp
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\mathlib.cpp(91,1): warning C4838: Преобразование из "unsigned int" в "const int32" требует сужающего преобразования.
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(105,7): warning C4273: malloc: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(101,15):
+      см. предыдущее определение "malloc"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(110,6): warning C4273: free: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(89,14):
+      см. предыдущее определение "free"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(115,7): warning C4273: realloc: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(126,15):
+      см. предыдущее определение "realloc"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(120,7): warning C4273: calloc: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(66,15):
+      см. предыдущее определение "calloc"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(136,7): warning C4273: _malloc_base: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(95,15):
+      см. предыдущее определение "_malloc_base"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(141,6): warning C4273: _free_base: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(84,14):
+      см. предыдущее определение "_free_base"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(146,7): warning C4273: _realloc_base: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(119,15):
+      см. предыдущее определение "_realloc_base"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(151,5): warning C4273: _heapchk: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\malloc.h(71,45):
+      см. предыдущее определение "_heapchk"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(156,5): warning C4273: _heapmin: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\malloc.h(64,26):
+      см. предыдущее определение "_heapmin"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(161,8): warning C4273: _msize: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(113,16):
+      см. предыдущее определение "_msize"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(181,15): warning C4273: _expand: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(78,15):
+      см. предыдущее определение "_expand"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(214,13): warning C4273: _heapwalk: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\malloc.h(67,30):
+      см. предыдущее определение "_heapwalk"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(355,15): warning C4273: _malloc_dbg: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(423,42):
+      см. предыдущее определение "_malloc_dbg"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(362,15): warning C4273: _calloc_dbg: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(400,42):
+      см. предыдущее определение "_calloc_dbg"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(371,15): warning C4273: _realloc_dbg: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(436,42):
+      см. предыдущее определение "_realloc_dbg"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(378,15): warning C4273: _expand_dbg: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(409,42):
+      см. предыдущее определение "_expand_dbg"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(385,14): warning C4273: _free_dbg: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(417,27):
+      см. предыдущее определение "_free_dbg"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(391,16): warning C4273: _msize_dbg: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(430,29):
+      см. предыдущее определение "_msize_dbg"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(444,5): warning C4273: _CrtDumpMemoryLeaks: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(185,26):
+      см. предыдущее определение "_CrtDumpMemoryLeaks"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(449,18): warning C4273: _CrtSetDumpClient: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(170,43):
+      см. предыдущее определение "_CrtSetDumpClient"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(454,5): warning C4273: _CrtSetDbgFlag: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(234,26):
+      см. предыдущее определение "_CrtSetDbgFlag"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(459,6): warning C4273: __p__crtBreakAlloc: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(157,32):
+      см. предыдущее определение "__p__crtBreakAlloc"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(467,25): warning C4273: _CrtSetAllocHook: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(164,42):
+      см. предыдущее определение "_CrtSetAllocHook"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(473,14): warning C4273: _CrtSetBreakAlloc: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(230,27):
+      см. предыдущее определение "_CrtSetBreakAlloc"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(478,13): warning C4273: _CrtIsValidHeapPointer: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(196,26):
+      см. предыдущее определение "_CrtIsValidHeapPointer"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(483,13): warning C4273: _CrtIsValidPointer: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(201,26):
+      см. предыдущее определение "_CrtIsValidPointer"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(488,13): warning C4273: _CrtCheckMemory: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(176,26):
+      см. предыдущее определение "_CrtCheckMemory"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(494,13): warning C4273: _CrtIsMemoryBlock: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(187,26):
+      см. предыдущее определение "_CrtIsMemoryBlock"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(501,13): warning C4273: _CrtMemDifference: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(211,26):
+      см. предыдущее определение "_CrtMemDifference"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(507,14): warning C4273: _CrtMemDumpStatistics: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(221,27):
+      см. предыдущее определение "_CrtMemDumpStatistics"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(512,14): warning C4273: _CrtMemCheckpoint: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(207,27):
+      см. предыдущее определение "_CrtMemCheckpoint"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(518,14): warning C4273: _CrtMemDumpAllObjectsSince: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(217,27):
+      см. предыдущее определение "_CrtMemDumpAllObjectsSince"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(523,14): warning C4273: _CrtDoForAllClientObjects: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(180,27):
+      см. предыдущее определение "_CrtDoForAllClientObjects"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(534,13): warning C4273: _CrtSetReportMode: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(659,26):
+      см. предыдущее определение "_CrtSetReportMode"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(539,16): warning C4273: _CrtSetReportFile: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(654,29):
+      см. предыдущее определение "_CrtSetReportFile"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(544,26): warning C4273: _CrtSetReportHook: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(673,43):
+      см. предыдущее определение "_CrtSetReportHook"
+  
+C:\Users\Устин\Desktop\IkarosCSSv34-master\public\tier0\memoverride.cpp(549,13): warning C4273: _CrtDbgReport: несовместимое связывание dll
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(611,26):
+      см. предыдущее определение "_CrtDbgReport"
+  
+     Создается библиотека .\binary\Recodev34.lib и объект .\binary\Recodev34.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Устин\Desktop\IkarosCSSv34-master\Needed.cpp(68): warning C4172: возвращаемый адрес локальной переменной или временного : szBuffer
+C:\Users\Устин\Desktop\IkarosCSSv34-master\Needed.cpp(50): warning C4172: возвращаемый адрес локальной переменной или временного : szBuffer
+  All 476 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Hack.vcxproj -> C:\Users\Устин\Desktop\IkarosCSSv34-master\binary\Recodev34.dll
